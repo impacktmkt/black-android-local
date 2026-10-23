@@ -7,5 +7,10 @@
   "native_libraries_unchanged": true,
   "host_import_assertions": 12,
   "host_download_assertions": 33,
-  "android_device_test": false
+  "android_device_test": false,
+  "public_anonymous_download_verified": true,
+  "download_bytes": 2222194688,
+  "iso_sha256": "7fede48e38662c3702fc90b70b97afcafc6745f2795ce730b79c69c7ba9b2995",
+  "public_http_range_verified": true,
+  "apk_sha256": "c9ae771fa7d640c628cde63cc8c7de01ec1e8d282abb1bc3eb17106f15831b0c"
 }
