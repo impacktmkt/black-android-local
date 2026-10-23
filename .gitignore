@@ -1,0 +1,13 @@
+# Build products and external tooling
+/public-build/
+/verification-public/
+/toolchain/*
+!/toolchain/setup.py
+/private-input/
+/private-signing/
+/Black-Android-preparador/app/src/main/jniLibs/
+*.apk
+*.iso
+*.part
+*.p12
+*.jks

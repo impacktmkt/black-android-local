@@ -1,0 +1,11 @@
+{
+  "application_id": "com.local.black.downloads",
+  "version": "1.5.0-local.3",
+  "compiled": true,
+  "apk_signature_scheme": "v3",
+  "alignment_kib": 16,
+  "native_libraries_unchanged": true,
+  "host_import_assertions": 12,
+  "host_download_assertions": 33,
+  "android_device_test": false
+}

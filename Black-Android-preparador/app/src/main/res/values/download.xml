@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game_download_url" translatable="false">https://github.com/impacktmkt/black-android-local/releases/download/game-data-v1/BLACK.iso.001|1073741824\nhttps://github.com/impacktmkt/black-android-local/releases/download/game-data-v1/BLACK.iso.002|1148452864</string>
+</resources>
